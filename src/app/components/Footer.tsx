@@ -4,28 +4,27 @@ import { motion } from "framer-motion";
 
 const Footer = () => {
   const companyDescription = [
-    "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "Our commitment to quality, customer satisfaction, and cutting-edge strategies sets us apart as a trusted partner in the digital landscape. With Joopa Digital, you get more than just a service—you gain a long-term ally dedicated to your success.",
   ];
 
   const contacts = [
-    { label: "Phone : ", value: "850-123-5021", href: "tel:850-123-5021" },
+    { label: "Phone : ", value: "9768866299", href: "tel:9768866299" },
     {
       label: "Email : ",
-      value: "info@lorem.mail",
-      href: "mailto:info@lorem.mail",
+      value: "joopadigital@gmail.com",
+      href: "mailto:joopadigital@gmail.com",
     },
     {
       label: "Address : ",
-      value: "312 Lovely Street, NY",
+      value: "Tillotama, Shankhanagar, Rupandehi",
       href: "https://www.google.com/maps",
     },
   ];
 
   const footerLinks = [
-    { name: "F.A.Q", href: "/" },
-    { name: "Privacy Policy", href: "/" },
-    { name: "Terms & Conditions", href: "/" },
+    { name: "F.A.Q", href: "/faq"},
+    { name: "Privacy Policy", href: "/privacy" },
+    { name: "Terms & Conditions", href: "/terms&condition" },
   ];
 
   return (
