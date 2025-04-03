@@ -2,10 +2,10 @@ import React from "react";
 
 const TermsAndConditions = () => {
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="pt-35 min-h-screen">
       <div className="container mx-auto px-4 py-8">
         <h1 className="text-3xl font-bold mb-4">Terms & Conditions</h1>
-        <p className="text-gray-700 mb-6">
+        <p className="text-black mb-6">
           **Last Updated:** [2025-03-04]
         </p>
 
