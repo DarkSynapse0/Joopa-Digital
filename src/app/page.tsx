@@ -3,7 +3,8 @@
 // import Testimonials from "./landing/testimonials";
 // import AboutUs from "./landing/about";
 // import CTA from "./landing/CTA";
-import ComingSoon from "./comingSoon"
+import ComingSoon from "./comingSoon";
+
 export default function Home() {
   return (
     <>
