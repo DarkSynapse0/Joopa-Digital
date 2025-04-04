@@ -3,7 +3,7 @@
 // import Testimonials from "./landing/testimonials";
 // import AboutUs from "./landing/about";
 // import CTA from "./landing/CTA";
-import Coming from "./coming";
+import ComingSoon from "./coming";
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
         <FeaturesSection />
         <Testimonials />
         <CTA /> */}
-      <Coming />
+      <ComingSoon />
     </>
   );
 }
