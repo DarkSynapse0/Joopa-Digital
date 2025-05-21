@@ -8,12 +8,12 @@ import ComingSoon from "./coming/ComingSoon";
 export default function Home() {
   return (
     <>
-        {/* <Hero />
+        <Hero />
         <AboutUs />
         <FeaturesSection />
         <Testimonials />
-        <CTA /> */}
-      <ComingSoon />
+        <CTA />
+{/*       <ComingSoon /> */}
     </>
   );
 }
